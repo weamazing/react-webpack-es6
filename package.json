@@ -1,0 +1,30 @@
+{
+  "name": "React with Webpack and ES6",
+  "version": "1.0.0",
+  "description": "It's the tempalte of React development environment with Webpack and ES6.",
+  "main": "index.js",
+  "scripts": {
+    "run-script": "./node_modules/.bin/webpack --config webpack.config.js",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "Kaka",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^6.0.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "css-loader": "^0.28.4",
+    "file-loader": "^0.11.2",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}

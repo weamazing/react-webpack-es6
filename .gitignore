@@ -1,0 +1,66 @@
+=======
+# ----------------------------------------------------------------------------------------------
+# Git Ignores @see https://github.com/github/gitignore
+# ----------------------------------------------------------------------------------------------
+
+# Application Specific
+# ----------------------------------------------------------------------------------------------
+*~
+
+/nbproject/private/
+
+
+# Bower / Node / Grunt / SASS
+# ----------------------------------------------------------------------------------------------
+node_modules
+dist/*.js
+dist/*.css
+
+
+
+# OSX
+# ----------------------------------------------------------------------------------------------
+.DS_Store
+**/.DS_Store
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+.com.apple.timemachine.supported
+
+
+# Sublime / Other Editors
+# ----------------------------------------------------------------------------------------------
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# Sublime Project Files
+*.sublime-project
+
+*.idea
+
+# Machine-specific files
+# Note: this index.html is above the src folder
+# On Josh's machine it dynamically creates a link to a build that is based on both current repository branches
+
+
+
+# Tags
+# ----------------------------------------------------------------------------------------------
+# Ignore tags created by etags and ctags
+
+
+# Vim
+# ----------------------------------------------------------------------------------------------
+#.*.sw[a-z]
+#*.un~
+
+
+# REORG
+# ----------------------------------------------------------------------------------------------
