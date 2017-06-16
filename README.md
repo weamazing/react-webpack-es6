@@ -21,10 +21,10 @@ It's an basic tempalte of React development environment with Webpack and ES6.
 
 ```
 |-- src - It's an sample to test.
-	|-- components
-	|-- styles
+  |-- components
+  |-- styles
 |-- dist
-	|-- index.html
+  |-- index.html
 .babelrc
 .gitignore
 LICENSE
