@@ -2,11 +2,11 @@
 
 <small>Created On: 06.16.2017</small><br/>
 <small>Last Updated: 06.16.2017</small><br/>
-<small>Authors: [Kaka Sun](mailto:3940797@qq.com)</small>
+<small>Author: [Kaka Sun](mailto:3940797@qq.com)</small>
 
 ## Introduction
 
-It's an basic tempalte of React development environment with Webpack and ES6.
+It's an basic template of React development environment with Webpack and ES6.
 
 ## Background
 
