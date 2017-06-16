@@ -63,7 +63,6 @@ webpack.config.js
 1. Apache or Mamp is required
 2. Install [Node v~6.11.0](https://nodejs.org/en/download/)
 3. Install [Grunt](http://gruntjs.com/): `npm install -g grunt-cli`
-4. Install [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ### Project Setup
 
