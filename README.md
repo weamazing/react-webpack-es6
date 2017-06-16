@@ -12,7 +12,7 @@ It's an basic tempalte of React development environment with Webpack and ES6.
 
 ### Important URLs
 
-- [Git Repo](https://github.com/weamazing/react-webpack-es6.git) (https://github.com/weamazing/react-webpack-es6.git)
+- [Git Repo](https://github.com/weamazing/react-webpack-es6.git) - https://github.com/weamazing/react-webpack-es6.git
 - [React](https://facebook.github.io/react/)
 - [Babel](http://babeljs.io/)
 - [Webpack](https://webpack.js.org)
